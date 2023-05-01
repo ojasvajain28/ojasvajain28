@@ -57,7 +57,6 @@ Profileme.dev
 
 
 
-
 <div>
 <h2 align="center"> Socials </h2>
 <br/>

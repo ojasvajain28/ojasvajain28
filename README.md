@@ -63,7 +63,7 @@ Profileme.dev
 <br/>
 
 <div align="center"> 
-<code><a href="https://www.github.com/ojasvajain28" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-regular-filled/48/null/github.png" /></a><a href="http://www.instagram.com/ojasvajain1" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a><a href="https://www.linkedin.com/in/ojasva-jain-281406200" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a><a href="https://www.twitter.com/ojasvajain28" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a></code>
+<code><a href="https://www.github.com/ojasvajain28" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-regular-filled/48/null/github.png" /></a><a href="https://www.instagram.com/ojasvajain1/?hl=en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a><a href="https://www.linkedin.com/in/ojasva-jain-281406200" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a><a href="https://www.twitter.com/ojasvajain28" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a></code>
 </div>
 
 </div>

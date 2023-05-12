@@ -14,14 +14,24 @@
 <!--
 Profileme.dev
 --->
-* 🌍  I'm based in Jaipur
-<!--
-* 🖥️  See my portfolio at [Portfolio](http://www.tejender-upadhyay.tech/)
---->
-* ✉️  You can contact me at [ojasvajain28@gmail.com](mailto:ojasvajain28@gmail.com)
-* ✉️  Contact Number:- +91-9826623499
-* 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
-* 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
+
+* [Website](https://www.ojasvajain.in/)
+* Mail- [ojasvajain28@gmail.com](mailto:ojasvajain28@gmail.com)
+* Contact Number:- +91-9826623499
+* I am Computer Science Engineer(2024) Graduate from IIIT Kota with a passion for logical and critical thinking. I have a deep love for mathematics and  consider myself a tech enthusiast.
+
+  What sets me apart is my keen interest in finance and trading. I find the world of investments and markets fascinating and continuously strive to expand my   knowledge in this area.
+
+  In addition to my academic achievements, I am a grand master in UCMAS, showcasing my mental arithmetic skills. I have also excelled in competitive exams, with a JEE Main percentile of 98.3% and qualification in JEE Advanced. Furthermore, I have successfully cleared GATE 2023.
+
+  During my college years, I maintained an impressive 8.66 CGPA, demonstrating my commitment to academic excellence. Moreover, I possess strong communication skills and excel in working within a team. I have a profound understanding of people and their psychology, which allows me to foster effective collaboration and achieve common goals.
+
+  Additionally, I had the privilege of serving as the Public Relations Head of IIIT Kota, where I showcased my exceptional networking and communication skills. In this role, I successfully secured sponsorship of lakhs of rupees, contributing significantly to the institute's growth and development.
+
+  I take pride in my ability to build connections and establish fruitful relationships with students, professors, professionals from various fields, and individuals from other institutes. This has allowed me to create a strong network that spans across different domains and industries.
+
+  Overall, I bring a well-rounded skill set, combining technical expertise, mathematical proficiency, and a deep interest in finance and trading. I am eager to contribute my knowledge and abilities to any project or team I am a part of.
+
 
 <br>
 <br>
